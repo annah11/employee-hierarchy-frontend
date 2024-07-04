@@ -1,0 +1,24 @@
+{
+  "name": "employee-hierarchy-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@mantine/core": "^3.3.1",
+    "@mantine/hooks": "^3.3.1",
+    "@reduxjs/toolkit": "^1.7.1",
+    "axios": "^0.24.0",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.19.2",
+    "react-redux": "^7.2.6",
+    "tailwindcss": "^2.2.19",
+    "yup": "^0.32.9"
+  }
+}
